@@ -16,13 +16,15 @@
         width: 120px;
     }
 
-    .navbar-toggler {
-        top: -20px;
+    .header.mobile .navbar-toggler {
+        top: -23px;
         right: 20px;
     }
     /*===//end of header === */
 
     /* === banenr part start === */
+    .banner .slider-item.slide-1,
+    .banner .slider-item.slide-2,
     .banner .slider-item,
     .banner {
         min-height: 70vh;
@@ -37,7 +39,9 @@
     .bnr-content p {
         font-size: 18px;
         line-height: 26px;
+        margin: 20px 0;
     }
+ 
     /* ===// end of banner part === */
 
  
