@@ -28,6 +28,7 @@
     .banner .slider-item,
     .banner {
         min-height: 70vh;
+        background-size: cover;
     }
     h1 {
         font-size: 40px;
