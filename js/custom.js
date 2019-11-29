@@ -15,7 +15,7 @@ $(function(){
      });
  });
 
-
+ 
  $(function(){
     //wow jquery plugins
     new WOW().init();
@@ -38,7 +38,7 @@ $(document).ready(function() {
 $('.banner-slider').slick({
     autoplay: true,
     autoplaySpeed: 7000,
-    speed: 2000,
+    speed: 500,
     arrows: true,
     dots: true,
     focusOnSelect: true,
