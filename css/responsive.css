@@ -11,7 +11,7 @@
         padding: 5px;
     }
 
-    .navbar-brand {
+     .navbar-brand {
         margin-right: .5rem;
         width: 120px;
     }
@@ -23,14 +23,24 @@
     /*===//end of header === */
 
     /* === banenr part start === */
+    .banner .slider-item,
+    .banner {
+        min-height: 70vh;
+    }
     h1 {
         font-size: 40px;
         line-height: 40px;
-        padding-top: 150px;
+        padding-top: 30px;
+        margin-top: 70px;
+    }
+
+    .bnr-content p {
+        font-size: 18px;
+        line-height: 26px;
     }
     /* ===// end of banner part === */
 
-
+ 
 
   
 }
