@@ -409,7 +409,7 @@ h1  {
   color: #fff;
   line-height: 80px;
   font-weight: 700;
-  padding-top: 300px;
+  /* padding-top: 300px; */
 }
 
 .slider-item{
